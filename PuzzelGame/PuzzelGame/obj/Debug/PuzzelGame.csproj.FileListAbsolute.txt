@@ -1,0 +1,54 @@
+C:\Users\Do Duc Duong\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\bin\Debug\PuzzelGame.exe
+C:\Users\Do Duc Duong\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\bin\Debug\PuzzelGame.pdb
+C:\Users\Do Duc Duong\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\obj\Debug\PuzzelGame.csprojAssemblyReference.cache
+C:\Users\Do Duc Duong\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\obj\Debug\PuzzelGame.Properties.Resources.resources
+C:\Users\Do Duc Duong\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\obj\Debug\PuzzelGame.csproj.GenerateResource.cache
+C:\Users\Do Duc Duong\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\obj\Debug\PuzzelGame.csproj.CoreCompileInputs.cache
+C:\Users\Do Duc Duong\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\obj\Debug\PuzzelGame.exe
+C:\Users\Do Duc Duong\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\obj\Debug\PuzzelGame.pdb
+C:\Users\Admin\OneDrive\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\bin\Debug\PuzzelGame.exe
+C:\Users\Admin\OneDrive\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\bin\Debug\PuzzelGame.pdb
+C:\Users\Admin\OneDrive\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\obj\Debug\PuzzelGame.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\obj\Debug\PuzzelGame.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\obj\Debug\PuzzelGame.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\obj\Debug\PuzzelGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\obj\Debug\PuzzelGame.exe
+C:\Users\Admin\OneDrive\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\obj\Debug\PuzzelGame.pdb
+C:\Users\Do Duc Duong\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\bin\Debug\Images\MyBae2.jpeg
+C:\Users\Do Duc Duong\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\obj\Debug\PuzzelGame.ChooseGameType.resources
+C:\Users\Do Duc Duong\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\obj\Debug\PuzzelGame.GameForm.resources
+C:\Users\Admin\OneDrive\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\bin\Debug\Images\MyBae2.jpeg
+C:\Users\Admin\OneDrive\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\obj\Debug\PuzzelGame.ChooseGameType.resources
+C:\Users\Admin\OneDrive\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\obj\Debug\PuzzelGame.GameForm.resources
+C:\Users\Admin\OneDrive\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\bin\Debug\PuzzelGame.exe.config
+C:\Users\Admin\OneDrive\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\bin\Debug\BUS.exe
+C:\Users\Admin\OneDrive\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\bin\Debug\DAO.exe
+C:\Users\Admin\OneDrive\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\bin\Debug\BUS.pdb
+C:\Users\Admin\OneDrive\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\bin\Debug\DAO.pdb
+C:\Users\Admin\OneDrive\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\bin\Debug\DAO.exe.config
+C:\Users\Admin\OneDrive\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\obj\Debug\PuzzelGame.csproj.CopyComplete
+C:\Users\Do Duc Duong\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\bin\Debug\PuzzelGame.exe.config
+C:\Users\Do Duc Duong\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\bin\Debug\BUS.exe
+C:\Users\Do Duc Duong\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\bin\Debug\DAO.exe
+C:\Users\Do Duc Duong\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\bin\Debug\BUS.pdb
+C:\Users\Do Duc Duong\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\bin\Debug\DAO.pdb
+C:\Users\Do Duc Duong\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\bin\Debug\DAO.exe.config
+C:\Users\Do Duc Duong\Documents\GitHub\PRN-Project\PuzzelGame\PuzzelGame\obj\Debug\PuzzelGame.csproj.CopyComplete
+D:\SEMESTER5\PRJ(PRN)\PRN-Project-main\PRN-Project-main\PuzzelGame\PuzzelGame\bin\Debug\Images\MyBae2.jpeg
+D:\SEMESTER5\PRJ(PRN)\PRN-Project-main\PRN-Project-main\PuzzelGame\PuzzelGame\bin\Debug\PuzzelGame.exe.config
+D:\SEMESTER5\PRJ(PRN)\PRN-Project-main\PRN-Project-main\PuzzelGame\PuzzelGame\bin\Debug\PuzzelGame.exe
+D:\SEMESTER5\PRJ(PRN)\PRN-Project-main\PRN-Project-main\PuzzelGame\PuzzelGame\bin\Debug\PuzzelGame.pdb
+D:\SEMESTER5\PRJ(PRN)\PRN-Project-main\PRN-Project-main\PuzzelGame\PuzzelGame\bin\Debug\BUS.exe
+D:\SEMESTER5\PRJ(PRN)\PRN-Project-main\PRN-Project-main\PuzzelGame\PuzzelGame\bin\Debug\DAO.exe
+D:\SEMESTER5\PRJ(PRN)\PRN-Project-main\PRN-Project-main\PuzzelGame\PuzzelGame\bin\Debug\BUS.pdb
+D:\SEMESTER5\PRJ(PRN)\PRN-Project-main\PRN-Project-main\PuzzelGame\PuzzelGame\bin\Debug\DAO.pdb
+D:\SEMESTER5\PRJ(PRN)\PRN-Project-main\PRN-Project-main\PuzzelGame\PuzzelGame\bin\Debug\DAO.exe.config
+D:\SEMESTER5\PRJ(PRN)\PRN-Project-main\PRN-Project-main\PuzzelGame\PuzzelGame\obj\Debug\PuzzelGame.csproj.AssemblyReference.cache
+D:\SEMESTER5\PRJ(PRN)\PRN-Project-main\PRN-Project-main\PuzzelGame\PuzzelGame\obj\Debug\PuzzelGame.ChooseGameType.resources
+D:\SEMESTER5\PRJ(PRN)\PRN-Project-main\PRN-Project-main\PuzzelGame\PuzzelGame\obj\Debug\PuzzelGame.GameForm.resources
+D:\SEMESTER5\PRJ(PRN)\PRN-Project-main\PRN-Project-main\PuzzelGame\PuzzelGame\obj\Debug\PuzzelGame.Properties.Resources.resources
+D:\SEMESTER5\PRJ(PRN)\PRN-Project-main\PRN-Project-main\PuzzelGame\PuzzelGame\obj\Debug\PuzzelGame.csproj.GenerateResource.cache
+D:\SEMESTER5\PRJ(PRN)\PRN-Project-main\PRN-Project-main\PuzzelGame\PuzzelGame\obj\Debug\PuzzelGame.csproj.CoreCompileInputs.cache
+D:\SEMESTER5\PRJ(PRN)\PRN-Project-main\PRN-Project-main\PuzzelGame\PuzzelGame\obj\Debug\PuzzelGame.csproj.CopyComplete
+D:\SEMESTER5\PRJ(PRN)\PRN-Project-main\PRN-Project-main\PuzzelGame\PuzzelGame\obj\Debug\PuzzelGame.exe
+D:\SEMESTER5\PRJ(PRN)\PRN-Project-main\PRN-Project-main\PuzzelGame\PuzzelGame\obj\Debug\PuzzelGame.pdb
